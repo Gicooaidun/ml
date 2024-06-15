@@ -1,0 +1,5 @@
+models/
+wandb/
+data/
+inference/done_inference_tiles
+
